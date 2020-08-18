@@ -1,6 +1,6 @@
 # flutter_meetupapp
 
-A new Flutter application.
+Futter Dart Meetup App project for Android and IOS
 
 ## Getting Started
 
